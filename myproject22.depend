@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1549537955 source:e:\others\c++\myproject22\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<bits/stdc++.h>
+	<iostream>
+	<fstream>
+	<string.h>
+	<bits/stdc++.h>
+
